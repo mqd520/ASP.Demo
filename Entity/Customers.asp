@@ -1,0 +1,5 @@
+<%
+class Customers
+	
+end class
+%>
